@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202402979155",
+    "project_id": "mynotes-flutter-pp",
+    "storage_bucket": "mynotes-flutter-pp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202402979155:android:b12846c51de3943c9a55a6",
+        "android_client_info": {
+          "package_name": "com.viveksharma.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHq8TILLIusZF3vi54vBiPHVtAYqzxJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
